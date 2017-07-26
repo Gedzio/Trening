@@ -1,8 +1,7 @@
 add some info in test branch 2
 moja tajna procedura
-info z branch 1
-info z branch 1
 test branch 2 
+moja tajna procedura
 moja zmodyfikowana juz nie tajna procedura
 test branch 2 
 dokonczenie procedury
