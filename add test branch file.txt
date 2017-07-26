@@ -1,6 +1,8 @@
 add some info in test branch 2
 moja tajna procedura
+info z branch 1
 moja tajna procedura
 moja tajna procedura
+info z branch 1
 dokonczenie procedury
 kfj;sdlfjs;ladkjf;lkdjs
